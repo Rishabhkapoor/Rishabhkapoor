@@ -4,7 +4,7 @@ I am a Machine Learning and Data Science enthusiast and a sophomore at Galgotias
 
 
 ## Lets Connect
-<a href="">
+<a href="https://twitter.com/rish_kap">
   <img src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" height="4%" ; width="4%" ; margin-left:0px;></img></a>   
 
   <a href="https://www.linkedin.com/in/rishabh--kapoor/">
